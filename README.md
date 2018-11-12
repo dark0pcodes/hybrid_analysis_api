@@ -1,6 +1,6 @@
 # Hybrid Analysis API
 
-Easy-to-use package to interact with the Hybrid Analysis Public API for Python 2 and 3.
+Easy-to-use package to interact with the Hybrid Analysis Public API for Python 2 and 3. For more information visit: https://www.hybrid-analysis.com/docs/api/v2
 
 ## Installation
 
