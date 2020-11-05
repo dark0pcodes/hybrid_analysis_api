@@ -7,7 +7,7 @@ Easy-to-use package to interact with the Hybrid Analysis Public API for Python 2
 To install this library just run the following command:
 
 ```
-pip install git+ssh://git@github.com/0bscurec0de/hybrid_analysis_api.git
+pip install git+ssh://git@github.com/dark0pcodes/hybrid_analysis_api.git
 ```
 ## Example usage
 
